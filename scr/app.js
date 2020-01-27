@@ -6,7 +6,8 @@ const app = express()
 const port = process.env.PORT || 3000
 
 const PublicPath = path.join(__dirname, '../public')
-console.log(PublicPath);
+//console.log(PublicPath);
+
 
 
 
